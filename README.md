@@ -43,8 +43,8 @@
 
 ### Key Features
 
-- Single Page Applicatin
-- Display a random greeting
+- Single Page Applicatin.
+- Display a random greeting.
 
 ## Getting Started
 
